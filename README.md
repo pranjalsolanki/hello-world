@@ -5,6 +5,9 @@ The website is regarding the various variety & features of homemade soap.
 NodeJS-Express TypeScript 
 A NodeJS + Expresss with Typescript Starter kit to build standard projects.
 
+# Project-Details
+This website provides a wide range of homeade soap with their specification and detailed advantages of it.people can eithrt order it in bulk or in less quantity.It has tracking facility of the ordered item.there are some other introductory launch of other skin care product such as shampoo, conditioner, lip balm, bodylotion.
+
 # Prerequisites
 What things you need to install:
 visual studio
